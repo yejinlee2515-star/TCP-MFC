@@ -1,2 +1,0 @@
-# TCP-MFC
-TCP, MFC
